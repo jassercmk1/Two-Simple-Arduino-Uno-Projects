@@ -32,8 +32,6 @@ The system repeats this process in a continuous loop with a delay of 1 second be
 4. The temperature readings will be displayed on the LCD screen, and the heating and cooling LEDs will indicate the status of the temperature control.
 5. Adjust the `SetTemp` variable in the code to change the desired set temperature.
 
-Feel free to modify the code as needed for your specific requirements. Enjoy your temperature control system!
-
 ## LED Color Cycling
 
 This project demonstrates color cycling using three LEDs - red, blue, and green - connected to an Arduino board. The LEDs will change their states in a sequential manner, cycling through different colors.
@@ -65,7 +63,7 @@ The `loop` function repeatedly calls the `changeLedState` function with each LED
 4. The LEDs will start cycling through different colors (red, blue, green) in a sequential manner.
 5. The cycle will continue indefinitely until the Arduino board is powered off or the code is modified.
 
-Feel free to modify the code as needed for your specific requirements. Enjoy the LED color cycling display!
+Feel free to modify the code as needed for your specific requirements.
 
 ```
 git clone https://github.com/jassercmk1/Two-Simple-Arduino-Uno-Projects.git
