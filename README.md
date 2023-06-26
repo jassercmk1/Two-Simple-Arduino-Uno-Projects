@@ -68,5 +68,5 @@ The `loop` function repeatedly calls the `changeLedState` function with each LED
 Feel free to modify the code as needed for your specific requirements. Enjoy the LED color cycling display!
 
 ```
-git clone 
+git clone https://github.com/jassercmk1/Two-Simple-Arduino-Uno-Projects.git
 ```
